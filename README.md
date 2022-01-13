@@ -1,4 +1,4 @@
-### Olá, eu sou o Filipe Lehmann, estudante e desenvolvedor! 👋
+### Olá, eu sou o Filipe Lehmann, estudante e desenvolvedor!
 
 <!--
 **LehmannPi/LehmannPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
