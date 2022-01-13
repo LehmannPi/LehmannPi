@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 USEFUL LINKS: https://shields.io/   https://github.com/simple-icons/simple-icons/blob/develop/slugs.md    https://github.com/anuraghazra/github-readme-stats    https://github.com/rafaballerini
 
 https://htmlpreview.github.io/?
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=LehmannPi&show_icons=true&theme=dark&hide=issues&count_private=true&line_height=29" height="175px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehmannPi&theme=dark&layout=compact&langs_count=7" height="175px"/>
+</div>
 -->
 
 <div>
@@ -40,12 +45,7 @@ https://htmlpreview.github.io/?
 </div>
 
 ##
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LehmannPi&show_icons=true&theme=dark&hide=issues&count_private=true&line_height=29" height="175px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehmannPi&theme=dark&layout=compact&langs_count=7" height="175px"/>
-</div>
-<div style="display: inline-block"> <br>
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/> &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>&nbsp
