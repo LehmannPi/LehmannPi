@@ -1,6 +1,4 @@
-## Olá Mundo! 
-
-Me chamo Filipe Lehmann, sou um estudante e desenvolvedor:
+## Olá Mundo! / Hello World!
 
 <!--
 **LehmannPi/LehmannPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +24,8 @@ https://htmlpreview.github.io/?
 </div>
 -->
 
+Me chamo Filipe Lehmann, sou um estudante e desenvolvedor:
+
 <div>
   <ul>
     <li> 🔭 Atualmente trabalhando em projetos pessoais e academicos;</li>
@@ -37,7 +37,20 @@ https://htmlpreview.github.io/?
 
 ##
 
-### 📫 Me encontre!
+My name is Filipe Lehmann, I'm a student and developer:
+
+<div>
+   <ul>
+     <li> 🔭 Currently working on personal and academic projects;</li>
+     <li> 🌱 Learning about Java, freelancing and how to have a more productive routine;</li>
+     <li> 📚 Looking to collaborate on challenging projects, because knowledge is achived through challenges;</li>
+     <li> 🌳 In love with life.</li>
+   </ul>
+</div>
+
+##
+
+### 📫 Me encontre! / Find me!
 <div><img src="https://img.shields.io/badge/-filipelehmannp%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=rgb(85,%2085,%2085)" />&nbsp
   <a href="https://www.linkedin.com/in/filipe-lehmann-pereira/"> <img src="https://img.shields.io/badge/-Filipe%20Lehmann%20Pereira-blue?style=for-the-badge&logo=linkedin&labelColor=rgb(85,%2085,%2085)&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/-(33)991590880-25D366?style=for-the-badge&logo=whatsapp&labelColor=rgb(85,%2085,%2085)"  />&nbsp
@@ -55,3 +68,9 @@ https://htmlpreview.github.io/?
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>&nbsp
 </div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=LehmannPi&show_icons=true&theme=dark&hide=issues&count_private=true&line_height=29" height="175px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehmannPi&theme=dark&layout=compact&langs_count=7" height="175px"/>
+</div>
+
