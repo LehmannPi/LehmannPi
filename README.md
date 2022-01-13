@@ -21,11 +21,12 @@ USEFUL LINKS: https://shields.io/   https://github.com/simple-icons/simple-icons
 - 🔭 Trabalhando em projetos pessoais e academicos.
 - 🌱 Aprendendo sobre PHP, Java e Freelance.
 - 💬 Me chame para fazer um projeto!
-
-![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LehmannPi&show_icons=true&theme=monokai&hide=issues&count_private=true&line_height=29)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehmannPi&theme=monokai&layout=compact&langs_count=7)
-
-<div style="display: inline-block">
+---
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=LehmannPi&show_icons=true&theme=monokai&hide=issues&count_private=true&line_height=29" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehmannPi&theme=monokai&layout=compact&langs_count=7" />
+</div>
+<div style="display: inline-block"> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/> &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>&nbsp
