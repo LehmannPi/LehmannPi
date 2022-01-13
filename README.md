@@ -21,8 +21,9 @@ https://htmlpreview.github.io/?
 ##
 
 - 🔭 Trabalhando em projetos pessoais e academicos.
-- 🌱 Aprendendo sobre PHP, Java e Freelance.
-- 💬 Me chame para fazer um projeto!
+- 🌱 Aprendendo sobre Java e Freelance.
+- 📚 Procurando coaborar em projetos desafiadores.
+- 💬 Me chame para conversar!
 ##
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=LehmannPi&show_icons=true&theme=dark&hide=issues&count_private=true&line_height=29" height="175px"/>
