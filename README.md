@@ -30,8 +30,7 @@ Me chamo Filipe Lehmann, sou um estudante e desenvolvedor:
   <ul>
     <li> 🔭 Atualmente trabalhando em projetos pessoais e academicos;</li>
     <li> 🌱 Aprendendo sobre Java, freelance e como ter uma rotina mais produtiva;</li>
-    <li> 📚 Procurando colaborar em projetos desafiadores, porque conhecimento se conquista;</li>
-    <li> 🌳 Apaixonado pela vida.</li>
+    <li> 📚 Procurando colaborar em projetos desafiadores. Conhecimento se conquista!</li>
   </ul>
 </div>
 
@@ -43,8 +42,7 @@ My name is Filipe Lehmann, I'm a student and developer:
    <ul>
      <li> 🔭 Currently working on personal and academic projects;</li>
      <li> 🌱 Learning about Java, freelancing and how to have a more productive routine;</li>
-     <li> 📚 Looking to collaborate on challenging projects, because knowledge is achived through challenges;</li>
-     <li> 🌳 In love with life.</li>
+     <li> 📚 Looking to collaborate on challenging projects. Knowledge is achived through challenges!</li>
    </ul>
 </div>
 
