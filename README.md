@@ -30,7 +30,7 @@ Me chamo Filipe Lehmann, sou um estudante e desenvolvedor:
 <div>
   <ul>
     <li> 🔭 Atualmente trabalhando em projetos pessoais e academicos;</li>
-    <li> 🌱 Terminando graduação, construindo um portfólio e refinando a rotina;</li>
+    <li> 🌱 Terminando graduação, construindo um portfólio e refinando minha rotina;</li>
     <li> 📚 Procurando colaborar em projetos desafiadores. Conhecimento se conquista!</li>
   </ul>
 </div>
