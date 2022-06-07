@@ -1,5 +1,6 @@
-## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">  
-<!--
+ ## Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<!--🌎 https://i.pinimg.com/originals/03/9c/79/039c79d8b2430aa14680b5a7b627e5c0.gif
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 **LehmannPi/LehmannPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,25 +26,25 @@ https://htmlpreview.github.io/?
 </div>
 -->
 
-Me chamo Filipe Lehmann, sou um estudante e desenvolvedor:
+Me chamo Filipe, sou um estudante e desenvolvedor:
 
 <div>
   <ul>
-    <li> 🔭 Atualmente terminando meu TCC e desenvolvendo projetos em REACT;</li>
-    <li> 🌱 Terminando graduação, construindo um portfólio e refinando minha rotina;</li>
-    <li> 📚 Procurando colaborar em projetos desafiadores. Conhecimento se conquista!</li>
+    <li> Atualmente terminando meu TCC e desenvolvendo projetos em REACT;</li>
+    <li>  Terminando graduação, construindo um portfólio e refinando minha rotina;</li>
+    <li>   Procurando colaborar em projetos desafiadores. Conhecimento se conquista!</li>
   </ul>
 </div>
 
 ##
 
-My name is Filipe Lehmann, I'm a student and developer:
+My name is Filipe, I'm a student and developer:
 
 <div>
    <ul>
-     <li> 🔭 Currently finishing my Undergraduate Thesis and developing projects in REACT;</li>
-     <li> 🌱 Finishing graduation, building a portfolio and refining my routine;;</li>
-     <li> 📚 Looking to collaborate on challenging projects. Knowledge is achived through challenges!</li>
+     <li>  Currently finishing my Undergraduate Thesis and developing projects in REACT;</li>
+     <li>  Finishing graduation, building a portfolio and refining my routine;;</li>
+     <li>  Looking to collaborate on challenging projects. Knowledge is achived through challenges!</li>
    </ul>
 </div>
 
