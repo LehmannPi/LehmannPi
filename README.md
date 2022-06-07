@@ -51,10 +51,10 @@ My name is Filipe, I'm a student and developer:
 ##
 
 ### 📫 Me encontre! / Find me!
-<div><img src="https://img.shields.io/badge/-filipelehmannp%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=rgb(85,%2085,%2085)" />&nbsp
-  <a href="https://www.linkedin.com/in/filipe-lehmann-pereira/"> <img src="https://img.shields.io/badge/-Filipe%20Lehmann%20Pereira-blue?style=for-the-badge&logo=linkedin&labelColor=rgb(85,%2085,%2085)&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/-(33)991590880-25D366?style=for-the-badge&logo=whatsapp&labelColor=rgb(85,%2085,%2085)"  />&nbsp
-  
+<div>
+ <a href="mailto:filipelehmannp@gmail.com/"> <img src="https://img.shields.io/badge/-email-red?style=for-the-badge&logo=gmail&labelColor=rgb(85,%2085,%2085)" /></a>&nbsp
+ <a href="https://www.linkedin.com/in/filipe-lehmann-pereira/"> <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=rgb(85,%2085,%2085)&logoColor=white" /></a>&nbsp
+ <a href="https://web.whatsapp.com/send?phone=553391590880&text&app_absent=0"> <img src="https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&labelColor=rgb(85,%2085,%2085)"  /></a>&nbsp
 </div>
 
 ##
