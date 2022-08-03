@@ -32,7 +32,7 @@ Me chamo Filipe, sou um estudante e desenvolvedor:
   <ul>
     <li> Atualmente terminando meu TCC e desenvolvendo projetos em REACT;</li>
     <li>  Terminando graduação, construindo um portfólio e refinando minha rotina;</li>
-    <li>   Procurando colaborar em projetos desafiadores. Conhecimento se conquista!</li>
+    <li>   Procurando colaborar em projetos desafiadores.</li>
   </ul>
 </div>
 
@@ -43,8 +43,8 @@ My name is Filipe, I'm a student and developer:
 <div>
    <ul>
      <li>  Currently finishing my Undergraduate Thesis and developing projects in REACT;</li>
-     <li>  Finishing graduation, building a portfolio and refining my routine;;</li>
-     <li>  Looking to collaborate on challenging projects. Knowledge is achived through challenges!</li>
+     <li>  Finishing graduation, building a portfolio and refining my routine;</li>
+     <li>  Looking to collaborate on challenging projects.</li>
    </ul>
 </div>
 
