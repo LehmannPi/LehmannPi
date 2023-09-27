@@ -26,24 +26,28 @@ https://htmlpreview.github.io/?
 </div>
 -->
 
-Me chamo Filipe, sou um estudante e desenvolvedor:
+Me chamo Filipe, sou um engenheiro e desenvolvedor:
 
 <div>
   <ul>
-    <li> Atualmente terminando meu TCC e desenvolvendo projetos em REACT;</li>
-    <li>  Estudando Test Driven Design e refinando minha rotina;</li>
+    <li>  Desenvolvendo projetos em React, Typescript e Next.Js;</li>
+    <li>  Estudando boas práticas e Test Driven Development;</li>
+    <li>  Estudando alemão;</li>
+    <li>  Em busca da minha melhor versão;</li>
     <li>  Procurando colaborar em projetos desafiadores.</li>
   </ul>
 </div>
 
 ##
 
-My name is Filipe, I'm a student and developer:
+My name is Filipe, I'm an engineer and developer:
 
 <div>
    <ul>
-     <li>  Currently finishing my Undergraduate Thesis and developing projects in REACT;</li>
-     <li>  Studying Test Driven Design and refining my routine;</li>
+     <li>  Currently developing projects in React, Typescript e Next.Js;</li>
+     <li>  Studying best practices and Test Driven Development;</li>
+     <li>  Studying German;</li>
+     <li>  In pursuit of the best version of myself;</li>
      <li>  Looking to collaborate on challenging projects.</li>
    </ul>
 </div>
