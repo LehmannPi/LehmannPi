@@ -39,8 +39,6 @@ Me chamo Filipe, sou um engenheiro e desenvolvedor:
 </div>
 -->
 
-##
-
 My name is Filipe, I'm an engineer and developer:
 
 📑 My portfolio : https://filipelehmann.vercel.app/
