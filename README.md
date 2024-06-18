@@ -39,7 +39,13 @@ Me chamo Filipe, sou um engenheiro e desenvolvedor:
 </div>
 -->
 
-My name is Filipe, I'm an engineer and developer:
+My name is Filipe, I'm an engineer and developer.
+
+"As programmers, we collect, organize, maintain, and harness knowledge. We document knowledge in specifications, we make it come alive in running code." 
+
+  — Andy Hunt and Dave Thomas, *The Pragmatic Programmer*
+  
+##
 
 📑 My portfolio : https://filipelehmann.vercel.app/
 
@@ -64,13 +70,15 @@ My name is Filipe, I'm an engineer and developer:
 
 ##
 <div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="35"/> &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35"/> &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="35"/> &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="35"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>&nbsp
