@@ -1,4 +1,4 @@
- ## Hello, world!
+<!--## About me
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <!--🌎 https://i.pinimg.com/originals/03/9c/79/039c79d8b2430aa14680b5a7b627e5c0.gif
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
@@ -44,8 +44,8 @@ My name is Filipe Lehmann, I'm a software engineer.
 "As programmers, we collect, organize, maintain, and harness knowledge. We document knowledge in specifications, we make it come alive in running code." 
 
   — Andy Hunt and Dave Thomas, *The Pragmatic Programmer*
-
-### 📫 Find me
+####
+<!--#### 📫 Find me-->
 <div>
  <a href="mailto:filipelehmannp@gmail.com/"> <img src="https://img.shields.io/badge/-email-red?style=for-the-badge&logo=gmail&labelColor=rgb(85,%2085,%2085)" /></a>&nbsp
  <a href="https://www.linkedin.com/in/filipe-lehmann-pereira/"> <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=rgb(85,%2085,%2085)&logoColor=white" /></a>&nbsp
